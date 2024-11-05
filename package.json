@@ -1,0 +1,11 @@
+{
+  "name": "gascheck",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": ["frontend", "backend"],
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
